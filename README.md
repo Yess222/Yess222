@@ -1,22 +1,57 @@
-## ¡Hola! Soy Jesus 👋
+<h1>¡Hola! Soy Jesus 👋</h1>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## Sobre mí
 Soy un estudiante de Ingeniería de Sistemas Computacionales apasionado por la creación de aplicaciones web y con la meta de convertirme en un desarrollador Full Stack. Además, tengo un fuerte interés en la inteligencia artificial y el análisis de datos, y siempre estoy buscando oportunidades para aprender y crecer en estos campos.
 
-## Habilidades y Tecnologías
-- **Lenguajes de Programación:** JavaScript, Python, Java y C#.
-- **Frameworks y Librerías:** React, Node.js, Express.js, Angular, Vue.js,Flask.
-- **Herramientas y Tecnologías:** Git, MySql, MongoDB, PostGresql, Postman.
-- **Áreas de Interés:** Desarrollo Full Stack, Inteligencia Artificial, Análisis de Datos
-
-<!--### Proyectos Destacados-->
-
-### Objetivos y Motivación
 Estoy enfocado en mejorar mis habilidades en desarrollo Full Stack y explorar más a fondo la inteligencia artificial y el análisis de datos. Mi objetivo es trabajar en proyectos innovadores que integren estas áreas y contribuyan a crear soluciones tecnológicas significativas.
 
+
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<a href= https://docs.oracle.com/en/java/ ><img width ='32px' src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java"> </a>
+<a href="https://nodejs.org" rel="nofollow"> <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"> </a>
+<a href="https://www.mongodb.com/" rel="nofollow"> <img  width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" > </a>
+<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/be64a7f0e9a3829ac292587ce6f9c32fdab8ef9b5b56748ae3ef1d5b64f324f9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3230343870782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="visual_studio_code" width ='32px' data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> </a>
+<!--### Proyectos Destacados-->
+
+<h2>Estadísticas Github</h2>
+
+![Yess222 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yess222&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yess222&theme=radical)](https://git.io/streak-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yess222)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
+<h2>Portafolio</h2>
+<p>En proceso..</p>
+-->
+<h2> Conectate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/jesus-zavaleta-serva-6025b4289/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'jesus.zavaleta10@hotmail.com'><img width = '40px' align= 'center'  src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
+
+
+<!--###  
 ### Contacto
 - **Email:** jesus.zavaleta10@hotmail.com
-- **LinkedIn:** https://www.linkedin.com/in/jesus-zavaleta-serva-6025b4289/
+- **LinkedIn:** 
 - **Portafolio:** En Proceso.
-  
+-->
+<br>
+<br>
+  <br>
 ¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes y siempre dispuesto a aprender algo nuevo.
