@@ -42,7 +42,7 @@ Estoy enfocado en mejorar mis habilidades en desarrollo Full Stack y explorar mÃ
 -->
 <h2> Conectate conmigo <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/jesus-zavaleta-serva-6025b4289/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'jesus.zavaleta10@hotmail.com'><img width = '40px' align= 'center'  src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
+<a href="mailto:jesus.zavaleta10@hotmail.com"><img width = '40px' align= 'center'  src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
 
 
 <!--###  
