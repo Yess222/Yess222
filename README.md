@@ -29,7 +29,7 @@ Soy un estudiante de Ingeniería de Sistemas Computacionales apasionado por la c
 <a href= https://docs.oracle.com/en/java/ ><img width ='32px' src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java"> </a>
 <a href="https://nodejs.org" rel="nofollow"> <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img  width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" > </a>
-<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/be64a7f0e9a3829ac292587ce6f9c32fdab8ef9b5b56748ae3ef1d5b64f324f9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672f3230343870782d56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e7376672e706e67" alt="visual_studio_code" width ='32px' data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> </a>
+
 <!--### Proyectos Destacados-->
 
 <h2>Estadísticas Github</h2>
