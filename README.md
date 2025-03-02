@@ -6,7 +6,7 @@
 </div>
 
 ## Sobre mí
-Soy un estudiante de Ingeniería de Sistemas Computacionales apasionado por la creación de aplicaciones web, con la meta de convertirme en un desarrollador Full Stack. Además, tengo un fuerte interés en la inteligencia artificial y el análisis de datos, y siempre busco oportunidades para aprender y crecer en estos campos.
+Soy un egresado de Ingeniería de Sistemas Computacionales apasionado por la creación de aplicaciones web, con la meta de convertirme en un desarrollador Full Stack. Además, tengo un fuerte interés en la inteligencia artificial y el análisis de datos, y siempre busco oportunidades para aprender y crecer en estos campos.
 
 ✨ Actualmente, me enfoco en mejorar mis habilidades en desarrollo Full Stack y en profundizar en la inteligencia artificial y el análisis de datos. Mi objetivo es trabajar en proyectos innovadores que integren estas áreas y contribuyan a crear soluciones tecnológicas significativas.
 
