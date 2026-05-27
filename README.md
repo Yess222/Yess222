@@ -32,13 +32,14 @@ Soy Bachiller en Ingeniería de Sistemas Computacionales, enfocado en el desarro
 <a href="https://nodejs.org" rel="nofollow"> <img width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img  width ='32px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" > </a>
 
-<!--### Proyectos Destacados-->
+<!--### Proyectos Destacados
 
 <h2>Estadísticas Github</h2>
 
 ![Yess222 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yess222&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yess222&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yess222)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 <h2>Portafolio</h2>
