@@ -6,9 +6,11 @@
 </div>
 
 ## Sobre mí
-Soy un egresado de Ingeniería de Sistemas Computacionales apasionado por la creación de aplicaciones web, con la meta de convertirme en un desarrollador Full Stack. Además, tengo un fuerte interés en la inteligencia artificial y Cloud computing, y siempre busco oportunidades para aprender y crecer en estos campos.
+Soy Bachiller en Ingeniería de Sistemas Computacionales, enfocado en el desarrollo Backend y apasionado por la construcción de aplicaciones web escalables y eficientes.
 
-✨ Actualmente, me enfoco en mejorar mis habilidades en desarrollo Full Stack y en profundizar en la inteligencia artificial y el cloud computing. Mi objetivo es trabajar en proyectos innovadores que integren estas áreas y contribuyan a crear soluciones tecnológicas significativas.
+✨ Me especializo en el desarrollo de soluciones utilizando tecnologías modernas, con un fuerte interés en la Inteligencia Artificial y el Cloud Computing. Busco integrar estas áreas para crear sistemas innovadores que aporten valor real.
+
+⚙️ Actualmente, estoy fortaleciendo mis habilidades en desarrollo Backend, arquitecturas en la nube y aplicaciones impulsadas por IA, con el objetivo de convertirme en un desarrollador Full Stack con enfoque en sistemas robustos y de alto rendimiento.
 
 🚀 Estoy abierto a colaboraciones y siempre buscando nuevos desafíos para ampliar mis conocimientos y experiencia.
 
